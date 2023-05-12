@@ -3484,7 +3484,7 @@ body,
   content: "";
   height: 100%;
   width: 100%;
-  background: linear-gradient(to bottom, #437eeb 0%,#093ac1 100%);
+  background: linear-gradient(to bottom, #34DE9C 0%,#093ac1 100%);
   opacity: 0;
   z-index: -1;
   transition: all 0.25s ease-in-out;
@@ -6890,7 +6890,7 @@ body.dark-layout .rectangular-shape.shape-margin-right::after {
 
 body.dark-layout .btn-gray.effect {
     background: transparent;
-    border: 1px solid rgba(255, 255, 255, 0.3;)
+    border: 1px solid rgba(255, 255, 255, 0.3);
 }
 
 
@@ -6985,7 +6985,7 @@ body.dark-layout footer .f-items .f-item.link li a:hover {
 }
 
 body.dark-layout .services-area .services-items .item > i {
-    background: linear-gradient(97deg, rgba(67,126,235,1) 44%, rgba(255,255,255,1) 100%);
+    background: linear-gradient(97deg, rgba(67,136,255,1) 44%, rgba(255,255,255,1) 100%);
     -webkit-background-clip: text;
     -moz-background-clip: text;
     background-clip: text;
